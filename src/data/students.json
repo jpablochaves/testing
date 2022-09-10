@@ -1,0 +1,38 @@
+[
+  {
+    "id": "a9be485a-30ad-11ed-a939-c869cdb2b352",
+    "first_name": "Pablo",
+    "last_name": "Chaves",
+    "username": "pchaves",
+    "age": 35,
+    "email": "pchaves@test.com",
+    "carreers": ["SYS-ENG", "ARQ"]
+  },
+  {
+    "id": "efe39dd0-30ad-11ed-9f4b-c869cdb2b352",
+    "first_name": "Pedro",
+    "last_name": "Perez",
+    "username": "pperez",
+    "age": 18,
+    "email": "pperez@test.com",
+    "carreers": ["SW-ENG", "CIV-ENG"]
+  },
+  {
+    "id": "690e8a12-30ae-11ed-9f1b-c869cdb2b352",
+    "first_name": "Jeff",
+    "last_name": "Beck",
+    "username": "jbeck",
+    "age": 76,
+    "email": "jbeck@test.com",
+    "carreers": ["MUS", "ART"]
+  },
+  {
+    "id": "d75673d0-30af-11ed-b019-c869cdb2b352",
+    "first_name": "Valentina",
+    "last_name": "Vega",
+    "username": "vvega",
+    "age": 20,
+    "email": "vvega@test.com",
+    "carreers": ["PUB", "ADM"]
+  }
+]
