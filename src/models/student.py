@@ -15,7 +15,7 @@ class Student(BaseModel):
 
     @validator('carreers')
     def must_have_carreers(cls, value):
-        if value is None or len(value) == 0:
+        if value is None or len(value) < 1:
             raise NoCarreersException(err='No carreers included!')
         return value # Value must be return to be mapped 
     

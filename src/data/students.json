@@ -13,7 +13,7 @@
     },
     {
         "id": "efe39dd0-30ad-11ed-9f4b-c869cdb2b352",
-        "first_name": "Pedro",
+        "first_name": "Pablo",
         "last_name": "Perez",
         "username": "pperez",
         "age": 18,
@@ -56,6 +56,17 @@
         "email": "achaves@test.com",
         "carreers": [
             "ELE-ENG"
+        ]
+    },
+    {
+        "id": "a9be485a-30ad-11ed-a939-c869cdb2b987",
+        "first_name": "prueba",
+        "last_name": "prueba",
+        "username": "pruchaves",
+        "age": 16,
+        "email": "pruchaves@test.com",
+        "carreers": [
+            "ENG"
         ]
     }
 ]
